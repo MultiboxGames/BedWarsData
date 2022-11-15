@@ -1,2 +1,3 @@
 QueueName|Squad| UsersPerTeam|4| TeamsPerMatch|4
 QueueName|OneVsOne| UsersPerTeam|1| TeamsPerMatch|2
+QueueName|TwoVsTwo| UsersPerTeam|2| TeamsPerMatch|2
