@@ -1,0 +1,14 @@
+{
+  "OneVsOne":{
+    "PlayersPerTeam":1,
+    "TeamsPerMatch":2,
+  },
+  "TwoVsTwo":{
+    "PlayersPerTeam":2,
+    "TeamsPerMatch":2,
+  },
+  "Squad":{
+    "PlayersPerTeam":4,
+    "TeamsPerMatch":4,
+  }
+}
